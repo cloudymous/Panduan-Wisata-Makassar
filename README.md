@@ -2,6 +2,7 @@
 ### Berbasis Android
 
 Aplikasi ini tersedia di [playstore](https://play.google.com/store/apps/details?id=com.ionicframework.app264724)
+
 Berikut detail aplikasi:
 - Dibangun menggunakan **Ionic Framework**
 - Semua gambar tersimpan di hosting yang sudah *tersuspend*. Jadi kemungkinan beberapa logo aplikasi atau keterangan gambar tidak tersedia
