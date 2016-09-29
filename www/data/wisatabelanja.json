@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Pasar Terong",
+        "alamat": "Jln. Terong",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/pasarterong.jpg",
+        "info": "Salah satu pasar yang terkenal dengan sayuran yang ada dari seluruh penjuru Makassar",
+        "link": "https://www.google.com/maps/place/Pasar+Terong,+Indonesia/data=!4m2!3m1!1s0x2dbefd575a0c0753:0x46c85c8e9ef27b74?sa=X&ved=0CBsQ8gEwAGoVChMIyruhuKKvyAIVBCmUCh3KcgKO"
+    },
+    {
+        "nama": "Makassar Mall",
+        "alamat": "Jln. K.H Wahid Hasyim",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/makassarmall.jpg",
+        "info": "Merupakan pasar yang terletak di Jantung Kota Makassar dan sebagai pusat belanja tekstil",
+        "link": "https://www.google.com/maps/dir/''/Jl.+KH+Wachid+Hasyim,+Kec.+Makassar,+Sulawesi+Selatan,+Indonesia/@-5.1307734,119.4045253,14.5z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2dbf02a131397c03:0x94f852bb05871ede!2m2!1d119.414!2d-5.1285"
+    },
+    {
+        "nama": "Pasar Senggol",
+        "alamat": "Jln. Cendrawasih",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/senggol.jpg",
+        "info": "Pasar yang terkenal dengan barang Cap Karung atau Cakar",
+        "link": "https://www.google.com/maps/place/Pasar+Senggol/@-5.1645426,119.4120657,15z/data=!4m2!3m1!1s0x0:0xa798166396aa25f"
+    },
+    {
+        "nama": "Pasar Butung",
+        "alamat": "Jln. Butung",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/butung.jpg",
+        "info": "Pasar yang dikenal karena industri tekstilnya",
+        "link": "https://www.google.com/maps/place/Jalan+Pasar+Butung,+Wajo,+Kota+Makassar,+Sulawesi+Selatan,+Indonesia/data=!4m2!3m1!1s0x2dbf0298c999ef93:0x77e033ff38f95e53?sa=X&ved=0CBsQ8gEwAGoVChMI1e_u3qKvyAIVo-imCh1HPA6-"
+    },
+    {
+        "nama": "Pasar Segar",
+        "alamat": "Jln. Pengayoman",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/pasarsegar.jpg",
+        "info": "Pasar modern yang belakangan terkenal sebagai pusat penjualan batu mulia di Makassar",
+        "link": "https://www.google.com/maps/dir/''/Jl.+Pengayoman,+Kec.+Makassar,+Kota+Makassar,+Sulawesi+Selatan+90231,+Indonesia/@-5.1603549,119.4502816,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2dbee2c1c4c4b097:0xe0cee825daf32e51!2m2!1d119.4498557!2d-5.1620474"
+    }
+]

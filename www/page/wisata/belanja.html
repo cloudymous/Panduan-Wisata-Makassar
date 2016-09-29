@@ -1,0 +1,22 @@
+<ion-view view-title="Daftar Wisata Belanja">
+    <ion-content>
+        <div class="list" data-ng-controller="tarikDataBelanjaCtrl">
+            <a class="item item-avatar" data-ng-repeat="item in belanja">
+                <img src="{{item.gambar}}">
+                <h2>{{item.nama}}</h2>
+                <p><i class="fa fa-map-marker fa-fw"></i>&nbsp;<b>{{item.alamat}}</b></p>
+                <div class="card">
+                    <div class="item item-text-wrap">
+                        <p><i>{{item.info}}</i></p>
+                    </div>
+                    <div class="item item-button-right" browse-to="{{item.link}}">
+                        Lokasi
+                        <button class="button button-positive">
+                            <i class="icon ion-android-pin"></i>
+                        </button>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </ion-content>
+</ion-view>

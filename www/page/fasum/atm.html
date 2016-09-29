@@ -1,0 +1,11 @@
+<ion-view view-title="Daftar ATM">
+    <ion-content>
+        <div class="list" data-ng-controller="tarikDataATMCtrl">
+            <a class="item item-avatar" data-ng-repeat="item in ATM" browse-to="{{item.link}}">
+                <img src="http://app.cloudymo.us/aplikasi/ATM.jpg">
+                <h2>{{item.nama}}</h2>
+                <p><i class="fa fa-map-marker fa-fw"></i>&nbsp;{{item.alamat}}</p>
+            </a>
+        </div>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,38 @@
+[
+    {
+        "nama": "Benteng Somba Opu",
+        "alamat": "Jln. Daeng Tata",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/sombaopu.jpg",
+        "info": "Merupakan benteng peninggalan kerajaan Gowa yang terkenal",
+        "link": "https://www.google.com/maps/place/Benteng+Somba+Opu/@-5.193123,119.4224436,15z/data=!4m2!3m1!1s0x0:0x73843af8d5015541"
+    },
+    {
+        "nama": "Benteng Fort Rotterdam",
+        "alamat": "Jln. Penghibur",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/rotterdam.jpg",
+        "info": "Benteng peninggalan kerajaan Gowa yang dulunya digunakan oleh Belanda untuk menyimpan rempah-rempah",
+        "link": "https://www.google.com/maps/place/Benteng+Fort+Rotterdam/@-5.1340321,119.4055571,15z/data=!4m2!3m1!1s0x0:0x28ed3928c1b6cf23"
+    },
+    {
+        "nama": "Gereja Immanuel",
+        "alamat": "Jln. Ahmad Yani",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/gerejaimmanuel.jpg",
+        "info": "Salah satu gereja Protestan tertua di kota Makassar",
+        "link": "https://www.google.com/maps/place/GPIB+Jemaat+Immanuel/@-5.133369,119.40876,15z/data=!4m2!3m1!1s0x0:0xc71990ed578b5b36"
+    },
+    {
+        "nama": "Makam Pangeran Diponegoro",
+        "alamat": "Jln. Pangeran Diponegoro",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/diponegoro.jpg",
+        "info": "Makam salah satu pahlawan nasional Diponegoro",
+        "link": "https://www.google.com/maps/place/Makam+Pangeran+Diponegoro/@-5.1268986,119.4149601,15z/data=!4m2!3m1!1s0x0:0x279b34e545e48765"
+
+    },
+    {
+        "nama": "Gereja Katedral",
+        "alamat": "Jln. Kajaolalido",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/katedral.jpg",
+        "info": "Gereja Katolik tertua di Kota Makassar",
+        "link": "https://www.google.com/maps/dir/''/Jl.+Kajaolalido+No.14,+Ujung+Pandang,+Kota+Makassar,+Sulawesi+Selatan+90111,+Indonesia/@-5.1346657,119.3937796,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2dbf02ae94c5989d:0x63a0146dcc769dbc!2m2!1d119.410067!2d-5.136118"
+    }
+]

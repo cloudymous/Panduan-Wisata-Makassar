@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Rumah Sakit Pelamonia",
+        "alamat": "Jln. Jendral Sudirman",
+        "link": "https://www.google.co.id/maps/place/Rumah+Sakit+Pelamonia/@-5.1390599,119.4150653,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02aa355a718d:0xfa653db8c868a5e4?hl=id"
+    },
+    {
+        "nama": "Rumah Sakit Islam Faizal",
+        "alamat": "Jln. RSI Faizal",
+        "link": "https://www.google.co.id/maps/place/Rumah+Sakit+Umum+Islam+Faisal/@-5.1623969,119.4331368,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee296836645ab:0xfe126f9545419a9d?hl=id"
+    },
+    {
+        "nama": "Rumah Sakit Grestelina",
+        "alamat": "Jln. Hertasning",
+        "link": "https://www.google.co.id/maps/place/Grestelina/@-5.16317,119.445296,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee2eb950205fb:0x592f0c45d1d6ca0?hl=id"
+    },
+    {
+        "nama" : "Rumah Sakit Akademis",
+        "alamat" : "Jln. Gunung Bulusaraung",
+        "link" : "https://www.google.co.id/maps/place/Rumah+Sakit+Akademis+%22Jaury%22/@-5.1312942,119.4148154,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02a7a6ec1fdb:0x7b4591b50bdd95ff?hl=id"
+    },
+    {
+        "nama" : "Rumah Sakit Ibnu Sina",
+        "alamat" : "Jln. Urip Sumiharjo",
+        "link" : "https://www.google.co.id/maps/place/Rumah+Sakit+Ibnu+Sina+YW+-+Umi/@-5.1394769,119.446197,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbefd34907bb581:0xa6bf3142363838a0?hl=id"
+    }
+]

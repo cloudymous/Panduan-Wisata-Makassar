@@ -1,0 +1,52 @@
+[
+    {
+        "nama": "ATM BNI Sudirman",
+        "alamat": "Jl. Jendral Sudirman",
+        "link": "https://www.google.com/maps/place/BNI+ATM/@-5.1430556,119.4148284,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf1d54d46f01d9:0xa53ae9119c7d6eec"
+    },
+    {
+        "nama": "ATM BNI KCP Bosowa",
+        "alamat": "Jl. Dr Sutomo",
+        "link": "https://www.google.com/maps/place/ATM+BNI+KCP+BOSOWA/@-5.1424679,119.4138735,17z/data=!4m5!1m2!2m1!1sATM+BNI!3m1!1s0x2dbf02ab40000073:0xc53b254c530bd8c9"
+    },
+    {
+        "nama": "ATM BCA",
+        "alamat": "Jl. Boulevard",
+        "link": "https://www.google.com/maps/place/ATM+BCA/@-5.1565389,119.447166,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee2c3d83b93a1:0x29c0fc31e15da3e9"
+    },
+    {
+        "nama": "ATM BCA",
+        "alamat": "Jl. A.P Pettarani",
+        "link": "https://www.google.com/maps/place/PT+Bank+Central+Asia+TBK./@-5.1547436,119.4485551,14z/data=!4m5!1m2!2m1!1sATM+BCA!3m1!1s0x2dbee2b94b3b0821:0x5ab76c2b8afafed7"
+    },
+    {
+        "nama": "ATM Mandiri Graha Pettarani",
+        "alamat": "Jl. A.P Pettarani",
+        "link": "https://www.google.com/maps/place/ATM+Mandiri/@-5.1547436,119.4485551,14z/data=!4m5!1m2!2m1!1sATM+Mandiri!3m1!1s0x0000000000000000:0xe5ded035572a8a2d"
+    },
+    {
+        "nama": "ATM Mandiri Urip",
+        "alamat": "Jl. Urip Sumoharjo",
+        "link": "https://www.google.com/maps/place/ATM+Mandiri/@-5.1547436,119.4485551,14z/data=!4m5!1m2!2m1!1sATM+Mandiri!3m1!1s0x2dbefd344b40de83:0x81461c66968d9214"
+    },
+    {
+        "nama": "ATM Danamon",
+        "alamat": "Jl. Sam Ratulangi",
+        "link": "https://www.google.com/maps/place/ATM+Danamon/@-5.1568625,119.4143884,15.5z/data=!4m2!3m1!1s0x2dbf1d585eef331d:0xd683c9c68ca56615"
+    },
+    {
+        "nama": "ATM Danamon",
+        "alamat": "Jl. Somba Opu",
+        "link": "https://www.google.com/maps/place/ATM+Danamon/@-5.1459,119.408876,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf1d524de3c941:0xf3290f9910111dc2"
+    },
+    {
+        "nama": "ATM BRI",
+        "alamat": "Jl. R.A Kartini",
+        "link": "https://www.google.com/maps/place/ATM+BRI/@-5.1459,119.408876,15z/data=!4m5!1m2!2m1!1sATM+BRI!3m1!1s0x0000000000000000:0x13651d7ea926a496"
+    },
+    {
+        "nama": "ATM BRI",
+        "alamat": "Jl. Slamet Riyadi",
+        "link": "https://www.google.com/maps/place/ATM+BANK+BRI/@-5.1332827,119.4075277,15z/data=!4m5!1m2!2m1!1sATM+BRI!3m1!1s0x0000000000000000:0x1964020662bdf16d"
+    }
+]

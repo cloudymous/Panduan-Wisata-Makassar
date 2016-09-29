@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <meta http-equiv="Content-Security-Policy" content="script-src * 'unsafe-eval';
+                      connect-src * 'unsafe-eval';
+                      object-src 'self';
+                      style-src * 'unsafe-inline';
+                      img-src *">
+
+    <title></title>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/gaya.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <script src="lib/ngCordova/dist/ng-cordova.js"></script>
+    <script src="cordova.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controller.js"></script>
+    <script src="js/fungsi.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDaibOceyKudxb0QTtBC3J-pDqA9e1coPc&sensor=true"></script>
+
+
+</head>
+
+<body ng-app="starter">
+
+    <ion-pane>
+        <ion-nav-bar>
+            <ion-nav-back-button></ion-nav-back-button>
+        </ion-nav-bar>
+        <ion-nav-view></ion-nav-view>
+    </ion-pane>
+</body>
+
+</html>

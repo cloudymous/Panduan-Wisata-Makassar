@@ -1,0 +1,50 @@
+[
+    {
+        "nama": "Mie Titi",
+        "alamat": "Jln. Perintis Kemerdekaan",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/mietiti.jpg",
+        "link": "https://www.google.com/maps/place/Mie+Titi/@-5.142104,119.479804,15z/data=!4m2!3m1!1s0x0:0x5b841f89616fac93"
+    },
+    {
+        "nama": "Pusat Jajajan Pantai Losari",
+        "alamat": "Jln. Penghibur",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/pisangepe.jpg",
+        "link": "https://www.google.com/maps/place/Anjungan+Pantai+Losari/@-5.1480911,119.4126408,15z/data=!4m6!1m3!3m2!1s0x0:0x5b841f89616fac93!2sMie+Titi!3m1!1s0x0000000000000000:0xddf19512204e56b8"
+    },
+    {
+        "nama": "Pusat Jajanan Benteng Panyua",
+        "alamat": "Jln. Penghibur",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/pisangepe.jpg",
+        "link": "https://www.google.com/maps/place/Kampoeng+Popsa/@-5.1327451,119.4071482,16.5z/data=!4m2!3m1!1s0x0000000000000000:0xf59a1b0def4f4264"
+    },
+    {
+        "nama": "Konro Bakar Karebosi",
+        "alamat": "Jln. Gunung Lompobattang",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/konro.jpg",
+        "link": "https://www.google.com/maps/place/Sop+Konro+Karebosi/@-5.1344127,119.415138,15z/data=!4m2!3m1!1s0x0:0x93e54cf41e4635ff?sa=X&ved=0CHUQ_BIwDWoVChMI3vSk7POvyAIVw4yUCh1-IgOK"
+    },
+    {
+        "nama": "Coto Gagak",
+        "alamat": "Jln. Gagak",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/coto.jpg",
+        "link": "https://www.google.com/maps/place/Aroma+Coto+Gagak/@-5.160877,119.411507,15z/data=!4m2!3m1!1s0x0:0xeec798588b042577?sa=X&ved=0CHIQ_BIwDWoVChMIm6uh7fSvyAIVihaUCh2JiQ1r"
+    },
+    {
+        "nama": "Coto Nusantara",
+        "alamat": "Jalan Nusantara",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/coto.jpg",
+        "link": "https://www.google.co.id/maps/place/Coto+Nusantara/@-5.130787,119.40377,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02bb315ffb91:0x834f25601788d410?hl=id"
+    },
+	{
+	"nama": "Sop Saudara",
+	"alamat" : "Jln Gunung Lompobattang",
+	"gambar" : "http://app.cloudymo.us/aplikasi/wisata/coto.jpg",
+	"link" : "https://www.google.co.id/maps/place/Sop+Konro+Karebosi/@-5.1344074,119.4129493,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02a988e7097d:0x93e54cf41e4635ff?hl=id"
+	},
+	{
+	"nama" : "Sop Saudara H Lian",
+	"alamat" : "Jln Boulevard",
+	"gambar" : "http://aplikasi/wisata/konro.jpg",
+	"link" : "https://www.google.co.id/maps/place/Sop+Saudara/@-5.1563007,119.4438253,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee2b8b5f2a9d7:0xd457677b557539cb?hl=id"
+	}
+]

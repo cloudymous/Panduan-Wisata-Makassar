@@ -1,0 +1,41 @@
+[
+    {
+        "nama": "Pantai Losari",
+        "alamat": "Jln. Penghibur",
+        "info": "Tempat yang cocok untuk menikmati matahari terbenam sambil menyantap pisang epe.",
+        "icon": "fa-bank",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/losari.jpg",
+        "link": "https://www.google.co.id/maps/place/Anjungan+Pantai+Losari/@-5.1437782,119.4065166,17z/data=!4m7!1m4!3m3!1s0x2dbf02ad6ed39dbf:0xddf19512204e56b8!2sAnjungan+Pantai+Losari!3b1!3m1!1s0x0000000000000000:0x35630d679657d10d?hl=id"
+    },
+    {
+        "nama": "Pantai Akkarena",
+        "alamat": "Jln. Metro Tanjung Bunga",
+        "info": "Tempat santai bersama keluarga yang cocok di akhir pekan",
+        "icon": "fa-bank",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/akkarena.jpg",
+        "link": "https://www.google.co.id/maps/place/Akkarena+Beach+Recreation+Centre/@-5.1703773,119.3881001,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf1d4fcfe6b003:0xc71d11dcaef93686?hl=id"
+    },
+    {
+        "nama": "Pantai Tanjung Bayang",
+        "alamat": "Jln. Tanjung Bayam",
+        "info": "Pantai yang cukup terkenal karena memasyarakat",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/tanjungbayang.jpg",
+        "link": "http://maps.google.com/maps?q=loc:-5.1879612,119.3893121"
+
+    },
+    {
+        "nama": "Pantai Tanjung Merdeka",
+        "alamat": "Jln. Metro Tanjung Bunga",
+        "info": "Pantai yang dekat dengan Tanjung Bayang dan juga memasyarakat",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/tanjungmerdeka.jpg",
+        "link": "http://maps.google.com/maps?q=loc:-5.1860807,119.3889688"
+    },
+    {
+        "nama": "Pantai Layar Putih",
+        "alamat": "Jln. Metro Tanjung Bunga",
+        "icon": "fa-bank",
+        "info": "Pantai yang sering kali digunakan untuk hunting foto",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/layarputih.jpg",
+        "link": "http://maps.google.com/maps?q=loc:-5.190787, 119.383637"
+    }
+]

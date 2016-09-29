@@ -1,0 +1,44 @@
+[
+    {
+        "fasilitas": "ATM",
+        "keterangan": "Lokasi ATM",
+        "icon": "fa-bank",
+        "link": "atm"
+    },
+    {
+        "fasilitas": "Mesjid",
+        "keterangan": "Lokasi Mesjid",
+        "icon": "fa-home",
+        "link": "mesjid"
+    },
+    {
+        "fasilitas": "Mall",
+        "keterangan": "Lokasi Mall di Kota Makassar",
+        "icon": "fa-shopping-cart",
+        "link": "mall"
+    },
+    {
+        "fasilitas": "Lapangan dan Taman",
+        "keterangan": "Lokasi Lapangan & Taman",
+        "icon": "fa-tree",
+        "link": "lapangan"
+    },
+    {
+        "fasilitas": "Pusat Kesehatan",
+        "keterangan": "Berisi Lokasi Pusat Kesehatan dan Rumah Sakit di Kota Makassar",
+        "icon": "fa-hospital-o",
+        "link": "rs"
+    },
+    {
+        "fasilitas": "Kantor Polisi",
+        "keterangan": "Lokasi Kantor Polisi",
+        "icon": "fa-user-secret",
+        "link": "polisi"
+    },
+    {
+        "fasilitas": "Toilet Umum",
+        "keterangan": "Lokasi Toilet Umum di Makassar",
+        "icon": "fa-tint",
+        "link": "toilet"
+	}
+]

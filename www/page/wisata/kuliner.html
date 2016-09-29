@@ -1,0 +1,11 @@
+<ion-view view-title="Daftar Wisata Kuliner">
+    <ion-content>
+        <div class="list" data-ng-controller="tarikDataKulinerCtrl">
+            <a class="item item-avatar" data-ng-repeat="item in kuliner" browse-to="{{item.link}}">
+                <img src="{{item.gambar}}">
+                <h2>{{item.nama}}</h2>
+                <p><i class="icon ion-android-restaurant"></i>&nbsp;{{item.alamat}}</p>
+            </a>
+        </div>
+    </ion-content>
+</ion-view>

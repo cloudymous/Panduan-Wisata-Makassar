@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Bugis Waterpark",
+        "alamat": "Perumahan Bukit Baruga, Makassar",
+        "info": "Bugis Waterpark, wahana permainan air pertama dan terbesar di Makassar.",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/bwp.jpg",
+        "link": "https://www.google.com/maps/place/Bugis+Water+Park/@-5.1550726,119.4944559,15z/data=!4m2!3m1!1s0x0:0xe7e4d3cf2e81ab9a"
+    },
+    {
+        "nama": "Gowa Discovery Park",
+        "alamat": "Jln. Tumanurung, Makassar",
+        "info": "Perpaduan wahana petualangan dan rekreasi keluarga.",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/gdp.jpg",
+        "link": "https://www.google.com/maps/place/Gowa+Discovery+Park/@-5.1996149,119.449693,15z/data=!4m2!3m1!1s0x0:0x6f4873dc7bba502"
+    },
+    {
+        "nama": "Trans Studio Resort Makassar",
+        "alamat": "Jln. Metro Tanjung Bunga",
+        "info": "Trans Studio Makassar adalah taman hiburan indoor terbesar ke-2 di Indonesia setelah Trans Studio Bandung.",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/tsm.jpg",
+        "link": "https://www.google.com/maps/place/Trans+Studio+Mall/@-5.1622396,119.3951731,14z/data=!4m5!1m2!2m1!1strans+studio+makassar!3m1!1s0x2dbf1d3ffccdebe9:0xb3362913e8b6721e"
+    }
+]

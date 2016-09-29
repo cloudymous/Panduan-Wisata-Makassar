@@ -1,0 +1,11 @@
+<ion-view view-title="Daftar Lapangan">
+    <ion-content>
+        <div class="list" data-ng-controller="tarikDataLapanganCtrl">
+            <a class="item item-avatar" data-ng-repeat="item in lapangan" browse-to="{{item.link}}">
+                <img src="http://app.cloudymo.us/aplikasi/lapangan.jpg">
+                <h2>{{item.nama}}</h2>
+                <p><i class="fa fa-map-marker fa-fw"></i>&nbsp;{{item.alamat}}</p>
+            </a>
+        </div>
+    </ion-content>
+</ion-view>

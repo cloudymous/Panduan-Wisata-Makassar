@@ -1,0 +1,13 @@
+<ion-view view-title="Daftar Objek Wisata">
+    <ion-content>
+        <div class="list" ng-controller="tarikDataWisataCtrl">
+
+            <a data-ng-repeat="item in wisata" class="item item-icon-left item-icon-right" href="#/{{item.link}}">
+                <i class="icon fa {{item.icon}} larger"></i>
+                <h3>{{item.fasilitas}}</h3>
+                <p>{{item.keterangan}}</p>
+                <i class="icon blue ion-android-arrow-dropright-circle"></i>
+            </a>
+        </div>
+    </ion-content>
+</ion-view>

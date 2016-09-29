@@ -1,0 +1,38 @@
+[
+    {
+        "fasilitas": "Wisata Pantai",
+        "keterangan": "Lokasi Pantai Wisata Kota Makassar",
+        "icon": "ion-help-buoy",
+        "link": "pantai"
+    },
+    {
+        "fasilitas": "Wisata Kuliner",
+        "keterangan": "Jelajahi Kuliner Khas Kota Makassar",
+        "icon": "ion-android-restaurant",
+        "link": "kuliner"
+    },
+    {
+        "fasilitas": "Wisata Sejarah",
+        "keterangan": "Peninggalan Sejarah Kota Makassar",
+        "icon": "ion-home",
+        "link": "sejarah"
+    },
+    {
+        "fasilitas": "Wisata Belanja",
+        "keterangan": "Lokasi Belanja di Makassar",
+        "icon": "ion-ios-cart",
+        "link": "belanja"
+    },
+    {
+        "fasilitas": "Wisata Keluarga",
+        "keterangan": "Lokasi Wisata Keluarga",
+        "icon": "fa-users",
+        "link": "keluarga"
+    },
+    {
+        "fasilitas": "Oleh-Oleh",
+        "keterangan": "Tempat Oleh-Oleh Jajanan Khas Makassar",
+        "icon": "fa-cart-plus",
+        "link": "oleholeh"
+    }
+]

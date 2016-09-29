@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Mall Ratu Indah",
+        "alamat": "Jln. Dr. Sam Ratulangi",
+        "link": "https://www.google.co.id/maps/place/Mall+Ratu+Indah/@-5.1533815,119.4173099,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf1d586e1f7377:0xf7888baf8684b096?hl=id"
+    },
+    {
+        "nama": "Mall Panakkukang",
+        "alamat": "Jln. Boulevard",
+        "link": "https://www.google.co.id/maps/place/Mal+Panakkukang/@-5.157432,119.446476,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee2c183da7ab5:0xc387271ccd3eb240?hl=id"
+    },
+    {
+        "nama": "Makassar Trade Centre",
+        "alamat": "Jln. Ahmad Yani",
+        "link": "https://www.google.co.id/maps/place/MTC+Karebosi/@-5.1326975,119.4131546,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02a56d346f4d:0x8a91eba3f0d919d2?hl=id"
+    },
+	{
+        "nama": "Graha Tata Cemerlang",
+        "alamat": "Jln. Metro Tanjung Bunga",
+        "link": "https://www.google.co.id/maps/place/Mall+Graha+Tata+Cemerlang/@-5.1697202,119.3908847,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02ad83bce9a3:0x1c44b926f2410b6?hl=id"
+    },
+	{
+        "nama": "Trans Mall",
+        "alamat": "Jln. Metro Tanjung Bunga",
+        "link": "https://www.google.co.id/maps/place/Trans+Studio+Mall/@-5.1618549,119.394229,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf1d3ffccdebe9:0xb3362913e8b6721e?hl=id"
+    },
+    {
+        "nama" : "Makassar Town Square",
+        "alamat" : "Jln. Perintis Kemerdekaan",
+        "link" : "https://www.google.co.id/maps/place/Makassar+Town+Square/@-5.1448109,119.475441,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee32e0590861b:0x35bfcd3571293a56?hl=id"
+    }
+]

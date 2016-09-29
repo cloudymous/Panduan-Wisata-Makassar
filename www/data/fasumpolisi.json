@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Polres Makassar Timur",
+        "alamat": "Jln. A.P Pettarani",
+        "link": "https://www.google.co.id/maps/place/Polres+Makassar+Timur/@-5.14827,119.43802,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee2b6fef80307:0xec712b02bf9311a5?hl=id"
+    },
+    {
+        "nama": "Polres Makassar Barat",
+        "alamat": "Jln. Sultan Hasanuddin",
+        "link": "https://www.google.co.id/maps/place/Polres+Makassar+Barat/@-5.1717687,119.4267818,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02ae5c823021:0x22feda2989ebe077?hl=id"
+    },
+    {
+        "nama": "Polrestabes Makassar",
+        "alamat": "Jln. Ahmad Yani",
+        "link": "https://www.google.co.id/maps/place/Polrestabes+Makassar/@-5.1322717,119.4085599,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02a51205b1d9:0x79add179fb85a227?hl=id"
+    },
+    {
+        "nama" : "Polsekta Ujung Pandang",
+        "alamat" : "Jln. Kajaolalido",
+        "link" : "https://www.google.co.id/maps/place/Polsekta+Ujung+Pandang/@-5.1368271,119.4088724,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02ae917c6245:0x7957064a3bed1631?hl=id"
+    },
+    {
+        "nama" : "Polsekta Mariso",
+        "alamat" : "Jln. Metro Tanjung Bunga",
+        "link" : "https://www.google.co.id/maps/place/Polsekta+Mariso/@-5.15124,119.404872,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf1d4fbfffffe3:0xebf569d186ca7e0d?hl=id"
+    }
+]

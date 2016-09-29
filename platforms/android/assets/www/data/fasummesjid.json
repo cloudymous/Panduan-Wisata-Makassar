@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Mesjid Raya",
+        "alamat": "Jln. Mesjid Raya",
+        "link": "https://www.google.com/maps/place/Masjid+Al-Markaz+Al-Islami/@-5.131386,119.4198955,17z/data=!4m2!3m1!1s0x2dbefd597425b445:0x19db69ebcd83982b"
+    },
+    {
+        "nama": "Masjid Al-Markaz Al-Islami",
+        "alamat": "Jln. Mesjid Raya",
+        "link": "https://www.google.com/maps/dir/''/Jalan+Masjid+Raya+No.+57,+Makassar,+Kec.+Makassar,+Sulawesi+Selatan+90152,+Indonesia/@-5.1299672,119.4220127,15.75z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2dbefd597425b445:0x19db69ebcd83982b!2m2!1d119.4262899!2d-5.1299968"
+    },
+    {
+        "nama": "Mesjid H.M Asyik",
+        "alamat": "Jln. A.P Pettarani",
+        "link": "https://www.google.com/maps/place/Masjid+Haji+Mohammad+Asyik/@-5.159143,119.435816,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee2be0c3c6eb5:0xb9ef8d43481d22f1"
+    },
+    {
+        "nama": "Mesjid Amirul Mukminin",
+        "alamat": "Anjungan Pantai Losari",
+        "link": "https://www.google.com/maps/place/Mesjid+Amirul+Mukminin/@-5.1467739,119.4111458,15.25z/data=!4m11!1m8!2m7!1sMesjid!3m5!1sMesjid!2s-5.1462,+119.4085!4m2!1d119.408483!2d-5.1461963!3m1!1s0x0000000000000000:0x4bb7b25e2af4eb7c"
+    }
+]

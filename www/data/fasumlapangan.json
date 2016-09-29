@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Lapangan Karebosi",
+        "alamat": "Jln. Jendral Sudirman",
+        "link": "https://www.google.co.id/maps/place/Lapangan+Karebosi/@-5.1350406,119.4117652,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02a8d260c65f:0xf1e77841a33a7ff3?hl=id"
+    },
+    {
+        "nama": "Lapangan Macan",
+        "alamat": "Jln. Sultan Hasanuddin",
+        "link": "https://www.google.co.id/maps/place/Taman+Macan/@-5.135973,119.40799,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02afb4fa354b:0xb47dca43baed9378?hl=id"
+    },
+    {
+        "nama" : "Lapangan Hertasning",
+        "alamat" : "Jln. Hertasning",
+        "link" : "https://www.google.co.id/maps/place/Lap.+Hertasning,+Bonto+Makkio,+Rappocini,+Kota+Makassar,+Sulawesi+Selatan+90222/@-5.1674034,119.4474357,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbee2ee7309a8c3:0xd9189948be5baec9?hl=id"
+    },
+    {
+        "nama" : "Lapangan Andi Mattalatta",
+        "alamat" : "Jln. Cendrawasih",
+        "link" : "https://www.google.co.id/maps/place/Stadion+Andi+Matalatta/@-5.1584504,119.4154434,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf1d5f011033e3:0xce760ce24516d7be?hl=id"
+    },
+    {
+        "nama" : "Gor Sudiang",
+        "alamat" : "Jln. Pajjaiang",
+        "link" : "https://www.google.co.id/maps/place/GOR+Sudiang/@-5.1055043,119.5266957,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbefb7623820791:0xfb16299376139368?hl=id"
+    }
+]

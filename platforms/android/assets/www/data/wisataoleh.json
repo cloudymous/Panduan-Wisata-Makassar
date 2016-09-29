@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "Toko Oleh-Oleh Daeng",
+        "alamat": "Jln. Perintis Kemerdekaan KM 17",
+        "info": "Salah satu toko oleh-oleh yang besar di Makassar",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/oleh2.jpg",
+        "link": "https://www.google.com/maps/dir/''/Jl.+Perintis+Kemerdekaan,+Biring+Kanaya,+Kota+Makassar,+Sulawesi+Selatan+90552,+Indonesia/@-5.0770723,119.501727,13.17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2dbefbe48609e953:0x2ccd50a749201ae4!2m2!1d119.5249131!2d-5.0685932"
+    },
+    {
+        "nama": "Gudang Oleh-Oleh Khas Makassar",
+        "alamat": "Sepanjang Jln. Somba Opu",
+        "info": "Sepanjang Jalan Somba Opu telah dikenal sebagai gudangnya oleh-oleh khas Makassar",
+        "gambar": "http://app.cloudymo.us/aplikasi/wisata/sombaopu.jpg",
+        "link": "https://www.google.com/maps/place/Jl.+Somba+OPU,+Ujung+Pandang,+Kota+Makassar,+Provinsi+Sulawesi+Sel.,+Indonesia/@-5.1397987,119.4047418,17z/data=!3m1!4b1!4m2!3m1!1s0x2dbf02ad34e5bd5d:0x646a1914383ed0ad://www.google.com/maps/place/Gowa+Discovery+Park/@-5.1996149,119.449693,15z/data=!4m2!3m1!1s0x0:0x6f4873dc7bba502"
+    }
+]
